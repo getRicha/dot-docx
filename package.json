@@ -4,7 +4,7 @@
   "description": "A web app to document your way through life",
   "main": "app.js",
   "engines": {
-    "node": "14.x"
+    "node": "20.x"
   },
   "scripts": {
     "start": "cross-env NODE_ENV=production node app",
