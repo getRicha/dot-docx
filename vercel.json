@@ -8,18 +8,6 @@
   ],
   "routes": [
     {
-      "src": "/",
-      "dest": "./routes/index.js"
-    },
-    {
-      "src": "/auth",
-      "dest": "./routes/auth.js"
-    },
-    {
-      "src": "/stories",
-      "dest": "./routes/stories.js"
-    },
-    {
       "src": "/(.*)",
       "dest": "app.js"
     }
